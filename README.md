@@ -20,3 +20,7 @@ alpha (Sheet):
 
 WT in time (Sheet):
 - The terget portfolio wanted in the paper where the model is described. We used the market portfolio we would have if the Hang Seng comprised only the 20 stocks considered, updated for every month in the period considered.
+
+The folder Stock contains all of the data on which the calculations are based. 
+
+The file "MIP for Portfolio Construction.ipnyb" is a Jupiter notebook with all of the code used.  
